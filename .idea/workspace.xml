@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af896389-3179-4ec6-858f-90889f733fec" name="Changes" comment="Ejercicio 1 del curso de Codigofacilito hecho con tdd en java">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algoritmos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algoritmos/tablas/Tablas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/algoritmos/tablas/TablasTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="af896389-3179-4ec6-858f-90889f733fec" name="Changes" comment="Ejercicio 1 del curso de Codigofacilito hecho con tdd en java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,6 +152,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679544290307</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicio 1 del curso de Codigofacilito hecho con tdd en java">
+      <created>1679547845865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679547845865</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
