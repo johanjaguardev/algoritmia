@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af896389-3179-4ec6-858f-90889f733fec" name="Changes" comment="merge with main">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algoritmos/operaciones/Operaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/algoritmos/operaciones/OperacionesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,10 +55,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.algoritmos.operaciones" />
       <recent name="org.algoritmos.tablas" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.OperacionesTest.testSeriePLus4Minus2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.algoritmos.Main" />
       <module name="Algoritmia" />
@@ -69,6 +69,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperacionesTest.testSeriePLus4Minus2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algoritmia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algoritmos.operaciones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algoritmos.operaciones" />
+      <option name="MAIN_CLASS_NAME" value="org.algoritmos.operaciones.OperacionesTest" />
+      <option name="METHOD_NAME" value="testSeriePLus4Minus2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,30 +105,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Algoritmia [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="clean" />
-              </list>
-            </option>
-            <option name="pomFileName" value="pom.xml" />
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method v="2" />
+    <configuration name="org.algoritmos.operaciones in Algoritmia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algoritmia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.algoritmos.operaciones.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.algoritmos.operaciones" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Algoritmia [install]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
@@ -141,10 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OperacionesTest.testSeriePLus4Minus2" />
+        <item itemvalue="JUnit.org.algoritmos.operaciones in Algoritmia" />
         <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.TablasTest.testMultiplicationTable" />
         <item itemvalue="Maven.Algoritmia [install]" />
-        <item itemvalue="Maven.Algoritmia [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -222,5 +228,16 @@
     <MESSAGE value="workspace update" />
     <MESSAGE value="merge with main" />
     <option name="LAST_COMMIT_MESSAGE" value="merge with main" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/algoritmos/operaciones/OperacionesTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
